@@ -1,4 +1,4 @@
-GameOfLife-FSharp
+GameOfLife in F#
 =================
 
 Exploring F# by attempting to implement Game of Life.
